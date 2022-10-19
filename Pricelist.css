@@ -1,0 +1,108 @@
+body {
+    background-color: rgba(112, 50, 133, 0.5);
+    font-family: monospace;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 19px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  h2 {
+    font-size: 17px;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: rgb(211, 201, 218);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: rgba(64, 78, 76, 0.514);
+    border-color: rgba(51, 70, 60, 0.74);
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family:  'Major Mono Display', monospace;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 15px;
+  }
+  
+  .Cakes, .Packages{
+    text-align: left;
+    width: 70%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: rgb(139, 83, 83);
+  }
+  
+  a:active {
+    color: rgb(105, 129, 61);
+  }
+  .link-container{
+    display: flex;
+    text-align: center;
+  }
+  .link {
+    align-content: center;
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20px;
+    height: auto;
+  }
